@@ -1,18 +1,7 @@
-This HTML document outlines the structure of a basic social media-like webpage, mimicking platforms such as Facebook. It includes various sections like a header, a sidebar for navigation, a main post area, and additional content boxes on the right.
+Over the past few weeks, I have been actively engaging in hands-on practice with HTML, CSS, and JavaScript to strengthen my web development skills. I began by learning the foundational structure of HTML, gaining confidence in using semantic tags to organize content clearly and meaningfully. By experimenting with headings, paragraphs, forms, tables, lists, and multimedia elements, I developed a solid understanding of how to create functional and well-structured web pages.
 
-At the top, the <div class="header1"> contains the site title "OLD MASTER", a search box, and profile-related links. The .sidenav section functions as the vertical navigation menu on the left side of the page. It lists user-related categories such as Profile, News Feed, Messages, Events, Pages, Groups, Apps, Friends, Interests, and Events again—each with sub-options like edit, create, or view.
+As I progressed, I turned my attention to CSS to enhance the visual presentation of my HTML content. I explored various styling techniques including typography, spacing, layout using Flexbox and Grid, and responsive design with media queries. I also practiced creating navigation menus, styled buttons, and implemented modern UI design concepts like shadows, gradients, and hover effects. This helped me understand how to separate content from design while creating visually appealing and user-friendly layouts.
 
-The main content area begins with placeholder divs (post00, post10, etc.) followed by the central posting interface. This section allows users to update their status, upload photos or videos, and create albums. It features a textarea for typing posts and a submit button labeled "post".
+Simultaneously, I began working with JavaScript to add interactivity and logic to my pages. I practiced manipulating the DOM, handling user input through forms and buttons, and dynamically updating content. I experimented with event listeners, functions, conditional logic, and loops to build interactive features like live updates and task tracking. Through this hands-on experience, I started to see how HTML, CSS, and JavaScript work together to create complete web experiences.
 
-Beneath this, a sample post is displayed within the .post1 div. It includes a profile image, a larger image (likely a shared photo), and interactive elements such as "Like", "Comment", and "Share". Below this, a comment input box is shown with another profile image, emulating user interaction.
-
-On the right side, there are two boxes: .sidebox and .sideboxxx2. These contain components like "Your Pages", "Recent Posts", "Trending", "Suggested Pages", and "People You May Know". Each section includes headings, dummy content, and action prompts like “See all” or “See more”.
-
-The page uses classes and IDs for styling, which in this version are handled by internal CSS in the <style> tag. Overall, the structure is comprehensive, serving as a static frontend prototype of a social networking homepage layout.
-
-
-
-
-
-
-
+By combining all three technologies, I’ve gained a practical understanding of front-end web development. I’ve built layouts from scratch, styled them using CSS, and brought them to life using JavaScript. This process has not only improved my technical knowledge but also sharpened my problem-solving skills and attention to detail. I continue to practice daily, seeking to improve my coding efficiency and develop more dynamic, responsive, and user-friendly web interfaces.
